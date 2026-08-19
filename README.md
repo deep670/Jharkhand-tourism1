@@ -1,6 +1,4 @@
-Haan, maine tumhare uploaded project ko check kiya. Ye **full-stack project** hai: **React + Vite frontend** aur **Node.js + Express backend**, with Google Gemini integration.
-
-README me Tech Stack section ko aise update karo:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a2a9c5e7-1f73-451c-9adb-cc5d4e5c8120" />
 
 # 🌄 Jharkhand Tourism
 
